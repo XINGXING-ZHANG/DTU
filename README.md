@@ -1,2 +1,2 @@
 # DTU
-some object when in DTU
+some project when in DTU
